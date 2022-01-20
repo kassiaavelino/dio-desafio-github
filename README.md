@@ -1,2 +1,6 @@
-# dio-desafio-github
-Desafio de projeto sobre Git/GitHub proposto pela DIO durante o bootcamp Decola Tech .
+# Desafio de Projeto 
+
+### Repósitorio para o projeto sobre Git/GitHub proposto durante o bootcamp Decola Tech 2ª Edição.
+
+
+Nesse repositório será armazenado todo o conteúdo adquirido ao longo do bootcamp, tais como programas criados, anotações sobre as aula entre outros.
