@@ -1,0 +1,47 @@
+* comandos *
+
+- cd :
+    possibilita a navegação entre as pastas 
+- dir: 
+    retorna a lista de diretorios contidos na pasta
+- mkdir :
+    tem a função de criar um diretorio
+- del / rmdir :
+    del se restringe apenas a deletar arquivos e não repositorios,
+    já com o rmdir conseguimos deletar os repositorios e pastas
+- cls :
+    limpa o terminal
+- mv : move arquivos para outras pastas
+
+- echo hello > hello.txt :
+    o echo printa algo no terminal e ao usar o > ele redireciona 
+    esse output para um arquivo que quisermos
+
+- openssl sha1 nomearquivo.txt :
+    faz com que seja gerada uma chave de incriptação com
+    40 caracteres referente ao arquivo escolhido
+
+- '-a' : flag usada para exibir arquivos ocultos
+
+ * objetos do git *
+
+- blobs :
+    bloco básico de composição, um objeto que guarda metadados,
+    arquivos
+
+- tree :
+    armazena e aponta diferentes tipos de blobs, ou até outras
+    tree
+
+- commit :
+    objeto que ira juntar todos os arquivos, aponta para um
+    parente, tree e autor
+
+git config --list
+
+git remote add origin "url do repositorio"
+
+git remote -v : lista de repositorios remotos cadastrados
+
+git push origin master : manda o repositorio pro github
+

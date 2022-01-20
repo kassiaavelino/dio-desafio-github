@@ -1,0 +1,15 @@
+untracked - 
+
+tracked - arquivos onde o git tem conhecimento de sua existencia.
+          podendo ser :
+
+ * unmodified : arquivo que ainda não foi modificado, não sofreu
+                alterações.
+ * modified : arquivo unmodified depois de sofrer algum tipo de
+              alteração.
+ * staged : arquivos que estão sendo preparados para fazerem parte
+            de outro tipo de agrupamento, parte de um commit, 
+            sendo assim ele retorna para unmodified.
+
+
+

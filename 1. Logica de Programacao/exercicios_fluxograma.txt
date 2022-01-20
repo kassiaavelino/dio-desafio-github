@@ -1,0 +1,22 @@
+1. Fazer um fluxograma que mostre a media do aluno
+e a soma de todas as notas
+
+2. Declarar quatro variáveis, "Janeiro, Fevereiro,
+Março, Abril", cada variável recebe o valor da venda
+total do mês. Adicionar mais uma variável "Média", 
+que irá calcular a média aritimética da venda desses
+meses.
+Colocar um if com a condição de:
+	Se a média foi maior ou igual a 5.000:
+	    "Parabéns, você receberá um abono de 10%
+	
+	Se a média for menor:
+	    "Você apenas receberá abono de 3%
+
+3. Pedir o nome do aluno, calcular a média, e exibir o
+nome e a média.
+
+4. Usar a estrutura de repetição para fazer a tabuada
+do 9.
+
+5. 

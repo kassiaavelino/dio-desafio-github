@@ -1,0 +1,9 @@
+principais estruturas de dados
+ vetores e matrizes,
+ registro
+ lista
+ pilha
+ fila
+ arvore
+ tabela hash
+ grafos
